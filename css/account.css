@@ -127,7 +127,8 @@
       padding: 7px 0; }
     .right_wrap .myAccount .thead .theadTitle {
       background: #c6daea;
-      overflow: hidden; }
+      overflow: hidden;
+      font-weight: bold; }
       .right_wrap .myAccount .thead .theadTitle li {
         line-height: 26px; }
     .right_wrap .myAccount .thead .total {
@@ -136,6 +137,28 @@
       text-align: center;
       width: 100%;
       overflow: hidden; }
+    .right_wrap .myAccount .thead .list07 {
+      width: 754px; }
+  .right_wrap .tip {
+    overflow: hidden;
+    margin-top: 10px;
+    border: #dadbdb 1px solid;
+    background: #fff; }
+    .right_wrap .tip h3 {
+      height: 30px;
+      line-height: 30px;
+      padding-left: 20px;
+      font-weight: bold;
+      color: #c44141;
+      border-bottom: #dadbdb 1px solid; }
+    .right_wrap .tip ul {
+      background: #f3f3f3;
+      padding: 15px 20px;
+      overflow: hidden; }
+      .right_wrap .tip ul li {
+        list-style-type: disc;
+        line-height: 30px;
+        margin-left: 10px; }
 
 .bg {
   width: 970px;
