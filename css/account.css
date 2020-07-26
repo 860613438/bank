@@ -15,7 +15,7 @@
 .loginInfo { width: 150px; color: #fff; line-height: 40px; padding: 10px 0; }
 
 /* line 26, account.scss */
-.menu { height: 90px; overflow: hidden; }
+.menu { overflow: hidden; }
 /* line 29, account.scss */
 .menu ul { margin-top: 20px; height: 90px; overflow: hidden; background: #c4d9e9; }
 /* line 34, account.scss */
