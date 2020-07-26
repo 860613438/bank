@@ -31,3 +31,5 @@ a:active { color: #666; }/*浮动和清除浮动*/
 .boder_ltr_trborder tr { border-bottom: 1px solid #ccc; }
 .w { width:  1200px; margin: 0 auto; overflow: hidden;}
 .header { height: 50px; padding-top: 10px ; }
+.mt10 { margin-top: 10px; }
+.mt20 { margin-top: 20px; }
